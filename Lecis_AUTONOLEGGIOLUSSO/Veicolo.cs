@@ -6,5 +6,7 @@ namespace Lecis_AUTONOLEGGIOLUSSO
 {
     internal class Veicolo
     {
+        public string Marca { get; set; }   
+        public Veicolo() { }
     }
 }
